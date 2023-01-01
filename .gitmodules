@@ -1,0 +1,45 @@
+[submodule "with-anatomy"]
+	path = with-anatomy
+	url = git@github.com:javeoff-with/with-anatomy.git
+[submodule "with-backend"]
+	path = with-backend
+	url = git@github.com:javeoff-with/with-backend.git
+[submodule "with-decentralized"]
+	path = with-decentralized
+	url = git@github.com:javeoff-with/with-decentralized.git
+[submodule "with-devops"]
+	path = with-devops
+	url = git@github.com:javeoff-with/with-devops.git
+[submodule "with-economics"]
+	path = with-economics
+	url = git@github.com:javeoff-with/with-economics.git
+[submodule "with-english"]
+	path = with-english
+	url = git@github.com:javeoff-with/with-english.git
+[submodule "with-frontend"]
+	path = with-frontend
+	url = git@github.com:javeoff-with/with-frontend.git
+[submodule "with-javascript"]
+	path = with-javascript
+	url = git@github.com:javeoff-with/with-javascript.git
+[submodule "with-mathematics"]
+	path = with-mathematics
+	url = git@github.com:javeoff-with/with-mathematics.git
+[submodule "with-physics"]
+	path = with-physics
+	url = git@github.com:javeoff-with/with-physics.git
+[submodule "with-programming"]
+	path = with-programming
+	url = git@github.com:javeoff-with/with-programming.git
+[submodule "with-psychology"]
+	path = with-psychology
+	url = git@github.com:javeoff-with/with-psychology.git
+[submodule "with-react"]
+	path = with-react
+	url = git@github.com:javeoff-with/with-react.git
+[submodule "with-teamlead"]
+	path = with-teamlead
+	url = git@github.com:javeoff-with/with-teamlead.git
+[submodule "with-typescript"]
+	path = with-typescript
+	url = git@github.com:javeoff-with/with-typescript.git
